@@ -6,14 +6,14 @@ Full-Stack Developer | Building Enterprise Solutions @ Gosoft (Thailand) 2023-20
 
 ---
 
-### 💻 About Me
-- 🚀 Specialized in **Enterprise Solutions** for Retail & Finance (7-Eleven Ecosystem).
-- 🛠️ Currently modernizing legacy systems and building high-scale platforms.
-- 🎓 Digital Technology & Information @ Panyapiwat Institute of Management.
+###  About Me
+-  Specialized in **Enterprise Solutions** for Retail & Finance (7-Eleven Ecosystem).
+-  Currently modernizing legacy systems and building high-scale platforms.
+-  Digital Technology & Information @ Panyapiwat Institute of Management.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 - **Frontend:** React, Vue, TypeScript, TailwindCSS
 - **Backend:** Node.js (NestJS, Express), Java, Flask
 - **Database:** PostgreSQL, MySQL, MongoDB
@@ -21,16 +21,16 @@ Full-Stack Developer | Building Enterprise Solutions @ Gosoft (Thailand) 2023-20
 
 ---
 
-### 🌟 Key Projects
+###  Key Projects
 - **Parcel Booking Platform** - Integrated Google Maps for nationwide 7-Eleven logistics.
 - **POS Banking Services** - Developed financial modules for cash withdrawal at POS.
 - **Legacy Modernization** - Migrating core systems from PHP/Java to modern Node.js stack.
 
 ---
 
-### 🔥 Stats & Contact
-- 🌱 Learning: AWS Architecture & React Native.
-- 📫 Reach me: `metharaengein@gmail.com`
+###  Stats & Contact
+-  Learning: AWS Architecture & React Native.
+-  Reach me: `metharaengein@gmail.com`
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MeThaRaengein&show_icons=true&theme=tokyonight" height="150" alt="stats report">
