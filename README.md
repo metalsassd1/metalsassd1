@@ -1,4 +1,4 @@
-# Hi there, I'm Metha Raengein 👋
+# Hi there, I'm Metha Raengern 👋
 
 <div align="center">
   
@@ -11,17 +11,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🏢 **Full-Stack Developer** at Gosoft (Thailand) Co., Ltd
-- 🎓 Bachelor's Degree in **Digital Technology and Information** from Panyapiwat Institute of Management
-- 🛒 Specializing in enterprise solutions for **Thailand's retail and financial sectors**
-- 🏪 Experience building platforms for **7-Eleven nationwide stores**
-- 📚 Passionate about **clean code**, **automated testing**, and **continuous learning**
+-  **Full-Stack Developer** at Gosoft (Thailand) Co., Ltd
+-  Bachelor's Degree in **Digital Technology and Information** from Panyapiwat Institute of Management
+-  Specializing in enterprise solutions for **Thailand's retail and financial sectors**
+-  Experience building platforms for **7-Eleven nationwide stores**
+-  Passionate about **clean code**, **automated testing**, and **continuous learning**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -80,9 +80,9 @@
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🏪 Enterprise Solutions for 7-Eleven Ecosystem
+###  Enterprise Solutions for 7-Eleven Ecosystem
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -98,15 +98,15 @@
 
 | Demo | Description | Status |
 |------|-------------|--------|
-| 📍 Google Maps Integration | Location picker with favorites management | 🔜 In Progress |
-| 🔐 OAuth2 + AWS Cognito | Authentication flow implementation | 🔜 Planned |
-| ⚡ React State Management | Complex state handling with Recoil | 🔜 Planned |
-| 🧪 Testing Best Practices | Jest unit & integration testing examples | 🔜 Planned |
-| 🔄 Legacy Migration Patterns | Before/After code refactoring showcase | 🔜 Planned |
+|  Google Maps Integration | Location picker with favorites management | 🔜 In Progress |
+|  OAuth2 + AWS Cognito | Authentication flow implementation | 🔜 Planned |
+|  React State Management | Complex state handling with Recoil | 🔜 Planned |
+|  Testing Best Practices | Jest unit & integration testing examples | 🔜 Planned |
+|  Legacy Migration Patterns | Before/After code refactoring showcase | 🔜 Planned |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeThaRaengein&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -115,24 +115,24 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🔷 Advanced TypeScript patterns
-- ☁️ AWS Solutions Architecture
-- 🧪 End-to-end testing with Cypress
-- 📱 React Native for mobile development
+-  Advanced TypeScript patterns
+-  AWS Solutions Architecture
+-  End-to-end testing with Cypress
+-  React Native for mobile development
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   
-  💼 Open for new opportunities and collaborations!
+   Open for new opportunities and collaborations!
   
-  📧 **Email:** metharaengein@gmail.com
+   **Email:** metharaengein@gmail.com
   
-  🔗 **LinkedIn:** [Metha Raengein](https://www.linkedin.com/in/metha-raengein)
+   **LinkedIn:** [Metha Raengein](https://www.linkedin.com/in/metha-raengein)
   
 </div>
 
@@ -141,5 +141,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MeThaRaengein&style=flat-square&color=blue" alt="Profile Views"/>
   
-  ⭐️ From [MeThaRaengein](https://github.com/MeThaRaengein)
+   From [MeThaRaengein](https://github.com/MeThaRaengein)
 </div>
