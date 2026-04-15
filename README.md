@@ -1,6 +1,6 @@
 # Hi, I'm Metha Raengern 👋
 
-Full-Stack Developer | Building Enterprise Solutions @ Gosoft (Thailand)
+Full-Stack Developer | Building Enterprise Solutions @ Gosoft (Thailand) 2023-2026
 
 [LinkedIn](https://www.linkedin.com/in/metha-raengein-3bb383372/) • [Email](mailto:metharaengein@gmail.com)
 
