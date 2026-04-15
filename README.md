@@ -92,29 +92,6 @@
 
 ---
 
-## 📂 Portfolio & Demos
-
-> 🚧 **Coming Soon** - Technical demonstrations showcasing my expertise
-
-| Demo | Description | Status |
-|------|-------------|--------|
-|  Google Maps Integration | Location picker with favorites management | 🔜 In Progress |
-|  OAuth2 + AWS Cognito | Authentication flow implementation | 🔜 Planned |
-|  React State Management | Complex state handling with Recoil | 🔜 Planned |
-|  Testing Best Practices | Jest unit & integration testing examples | 🔜 Planned |
-|  Legacy Migration Patterns | Before/After code refactoring showcase | 🔜 Planned |
-
----
-
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeThaRaengein&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeThaRaengein&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
----
-
 ##  Currently Learning
 
 -  Advanced TypeScript patterns
