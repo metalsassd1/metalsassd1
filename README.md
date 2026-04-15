@@ -32,11 +32,6 @@ Full-Stack Developer | Building Enterprise Solutions @ Gosoft (Thailand) 2023-20
 -  Learning: AWS Architecture & React Native.
 -  Reach me: `metharaengein@gmail.com`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeThaRaengein&show_icons=true&theme=tokyonight" height="150" alt="stats report">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeThaRaengein&layout=compact&theme=tokyonight" height="150" alt="languages report">
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MeThaRaengein&label=Profile%20Views&style=flat-square&color=blue" alt="views"/>
 </div>
